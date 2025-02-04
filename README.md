@@ -16,5 +16,3 @@ Este repositório contém o material do bootcamp, abrangendo desde os fundamento
 Estou realizando este bootcamp para aprimorar minhas habilidades na stack Java e evoluir dentro da tecnologia, consolidando meu conhecimento em desenvolvimento backend e computação em nuvem.  
 
 💡 *Acompanhe a evolução e contribua!* 
-
-teste
